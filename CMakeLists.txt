@@ -63,3 +63,7 @@ add_executable(stl_test src/stl_test.cpp)
 
 # Optionally, you can add tests for stl_test if needed
 # add_test(NAME stl_test COMMAND stl_test)
+
+# leetcode
+add_executable(leet3142 leetc/3142.cpp)
+
