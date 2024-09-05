@@ -27,7 +27,7 @@ public:
 };
 
 int main() {
-    // Solution s;
+    Solution s;
 
     // Test case 1
     vector<vector<int>> grid1 = {{1, 0, 2}, {1, 0, 2}};
