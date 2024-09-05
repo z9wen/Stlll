@@ -28,7 +28,7 @@ public:
 
 int main() {
     Solution s;
-
+    (void)s;
     // Test case 1
     vector<vector<int>> grid1 = {{1, 0, 2}, {1, 0, 2}};
     assert(s.satisfiesConditions(grid1) == true);
