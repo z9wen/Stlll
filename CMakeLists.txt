@@ -66,4 +66,5 @@ add_executable(stl_test src/stl_test.cpp)
 
 # leetcode
 add_executable(leet3142 leetc/3142.cpp)
+add_executable(leet2028 leetc/2028.cpp)
 
